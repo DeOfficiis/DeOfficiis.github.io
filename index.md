@@ -8,7 +8,7 @@ The content will be aide-memoires, cheat sheets and links for my personal use.
 
 This site is build for training purposes.  
 
-Create a simple website that utilizes Markdown files for page content. No site generator necessary. Edit directly on GitHub! The pages and files in the [GitHub ![GitHub Logo](assets/user/github.png) repository](https://github.com/dandalpiaz/markdown-pages) are rendered on [this website](https://dandalpiaz.github.io/markdown-pages) via GitHub Pages. 
+Create a simple website that utilizes Markdown files for page content. No site generator necessary. Edit directly on GitHub! 
 
 # Table of Contents
 
