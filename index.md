@@ -1,3 +1,5 @@
+# SITE STILL UNDER CONSTRUCTION, EXPERIMENTATION ETC. 
+
 _`Last Updated: 15/7/2022`_ [`edit`](https://github.com/DeOfficiis/DeOfficiis.github.io/blob/main/README.md))
 
 We are creating a simple website that uses Markdown Files for page content.  No Site Generator used.  Edit on Github.
@@ -8,18 +10,27 @@ This site is build for training purposes.
 
 Create a simple website that utilizes Markdown files for page content. No site generator necessary. Edit directly on GitHub! The pages and files in the [GitHub ![GitHub Logo](assets/user/github.png) repository](https://github.com/dandalpiaz/markdown-pages) are rendered on [this website](https://dandalpiaz.github.io/markdown-pages) via GitHub Pages. 
 
-## Table of Contents
+#Table of Contents
 
-# A collapsible section with markdown
-<details>
+## A collapsible section with markdown
+
+
   <summary>Click to expand!</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
+  ## Python
+  1. Control Flow
+  2. Data Structures
+     * Simple 
+     * and not so simple
+  ## SQL
+  1. How to use VSCode as SQL Workbench, but server connection is a problem for the moment.
+  2. "Maybe not today, maybe not tomorrow, but one day for the rest of your lives" it will work
+  3. and then we'll add this here as wel.
+  ## GIT 
+  1. Installation
+  2. Snapshots
+  
+  ## 
 
 
 - [Python](#getting-started)
@@ -29,8 +40,6 @@ Create a simple website that utilizes Markdown files for page content. No site g
 
 ## About
 
-The purpose of this project was to simplify the creation of a Markdown-based website. There are numerous static site generators (like Jekyll and Hugo) that can use Markdown files for content; however, they require additional backend setup and configuration.
-
 This template is very simple by design - focusing on informational content instead of any special layouts or advanced web elements. Other than GitHub Pages, a site will require no other backend components, and the frontend uses just three libraries:
 
 - **[Showdown JS](http://showdownjs.com/)** - for the conversion of Markdown to HTML
@@ -38,19 +47,9 @@ This template is very simple by design - focusing on informational content inste
 - **[Highlight JS](https://highlightjs.org/)** - to add syntax highlighting for code blocks
 
 
-### README.md
-
-The `README.md` file will provide the content for the homepage of your site. Simply author the file using [Markdown syntax](https://www.markdownguide.org/basic-syntax/).
-
 ### index.html
 
-The `index.html` file does the magic of converting Markdown to HTML. It will also look for a heading level 1 (h1) on the current page and prepend it to the site title. You can add your site title by modifying this line in the header:
-
-```
-&lt;title&gt;Markdown Pages&lt;/title&gt;
-```
-
-There are other lines in the header that you may want to edit as well, such as the meta description and the favicon image name/location.
+The `index.html` file does the magic of converting Markdown to HTML. 
 
 
 ### Pages
