@@ -10,6 +10,17 @@ Create a simple website that utilizes Markdown files for page content. No site g
 
 ## Table of Contents
 
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 
 - [Python](#getting-started)
 - [SQL](#file-structure)
