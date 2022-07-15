@@ -15,28 +15,36 @@ Create a simple website that utilizes Markdown files for page content. No site g
 ## A collapsible section with markdown
 
 
-  <summary>Click to expand!</summary>
+<details>
+<summary>Python</summary>
+
+- [Control Flow](#heading-1)
+  - [Mathematical Operators](#heading-2)
+    - [With Numbers](#heading-3)
+    - [With String](#heading-3)
+  - [IF statements](#heading-2)
+  - [ELIF statements](#heading-2)
+
+</details>
+
+<details>
+<summary>SQL</summary>
   
-  ## Python
-  1. Control Flow
-  2. Data Structures
-     * Simple 
+  
      * and not so simple
+  
   ## SQL
   1. How to use VSCode as SQL Workbench, but server connection is a problem for the moment.
   2. "Maybe not today, maybe not tomorrow, but one day for the rest of your lives" it will work
   3. and then we'll add this here as wel.
+  
   ## GIT 
   1. Installation
   2. Snapshots
   
-  ## 
 
 
-- [Python](#getting-started)
-- [SQL](#file-structure)
-- [Git](#styles)
-- [Azure](#limitations)
+
 
 ## About
 
