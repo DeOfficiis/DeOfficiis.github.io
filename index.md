@@ -1,4 +1,4 @@
-_`Last Updated: 15/7/2022`_ [`edit`](https://github.com/DeOfficiis/DeOfficiis.github.io/blob/main/README.md))
+_`Last Updated: 15/7/2022`_ [`edit`](https://github.com/DeOfficiis/DeOfficiis.github.io/blob/main/README.md)
 
 We are creating a simple website that uses Markdown Files for page content.  No Site Generator used.  Edit on Github.
 
