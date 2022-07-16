@@ -25,20 +25,23 @@ This site is build for training purposes.
 
 # Bookmark Links
 
-**Markdown formatting **
+**Markdown formatting**
+
 [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 **Python Documentation**
-[Python 3.10.5 documentation]( 3.10.5 Documentation (python.org))
 
-**MySQL Documentation**(https://dev.mysql.com/doc/)
-	[MySQL workbench]( https://dev.mysql.com/doc/workbench/en/)
+[Python 3.10.5 Documentation](https://docs.python.org/3/index.html)
+
+**MySQL**
+
+[MySQL Documentation](https://dev.mysql.com/doc/)
+
+[MySQL Shell Documentation](https://dev.mysql.com/doc/mysql-shell/8.0/en/)
+
+[MySQL Workbench Documentation](https://dev.mysql.com/doc/workbench/en/)
 
   
-
-
-
-
 
 ## About
 
@@ -49,12 +52,12 @@ This template is very simple by design - focusing on informational content inste
 - **[Highlight JS](https://highlightjs.org/)** - to add syntax highlighting for code blocks
 
 
-### index.html
+## index.html
 
 The `index.html` file does the magic of converting Markdown to HTML. 
 
 
-### Pages
+## Pages
 
 Additional pages can be added to the `pages` directory, using Markdown files. To add a link to an additional page, for example, `sample-page.md`, the following link structure can be used: 
 
