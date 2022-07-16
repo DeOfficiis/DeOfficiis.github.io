@@ -6,40 +6,36 @@ The content will be aide-memoires, cheat sheets and links for my personal use.
 
 This site is build for training purposes.  
 
-Create a simple website that utilizes Markdown files for page content. No site generator necessary. Edit directly on GitHub! 
-
 # Table of Contents
 
-## A collapsible section with markdown
-
+**A collapsible section with markdown**
 
 <details>
 <summary>Python</summary>
 
 - [Control Flow](#heading-1)
   - [Mathematical Operators](#heading-2)
-    - [With Numbers](#heading-3)
-    - [With String](#heading-3)
+  - [With Numbers](#heading-2)
+  - [With String](#heading-2)
   - [IF statements](#heading-2)
   - [ELIF statements](#heading-2)
 
 </details>
 
-<details>
-<summary>SQL</summary>
+
+# Bookmark Links
+
+**Markdown formatting **
+[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+**Python Documentation**
+[Python 3.10.5 documentation]( 3.10.5 Documentation (python.org))
+
+**MySQL Documentation**(https://dev.mysql.com/doc/)
+	[MySQL workbench]( https://dev.mysql.com/doc/workbench/en/)
+
   
-  
-     * and not so simple
-  
-  ## SQL
-  1. How to use VSCode as SQL Workbench, but server connection is a problem for the moment.
-  2. "Maybe not today, maybe not tomorrow, but one day for the rest of your lives" it will work
-  3. and then we'll add this here as wel.
-  
-  ## GIT 
-  1. Installation
-  2. Snapshots
-  
+
 
 
 
